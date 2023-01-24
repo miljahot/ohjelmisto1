@@ -1,7 +1,6 @@
 import random
 
 N = int(input("Anna arvottavien pisteiden määrä: "))
-#Ympyröiden sisäl olevat pisteet
 n = 0
 
 for i in range(N):
